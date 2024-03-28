@@ -4,7 +4,7 @@
 
 ## Project Overview
 
-### Objective (Problem Statement)
+### Objective (Problem Statement) 
 In this project, we aim to predict house per sq.ft. prices for properties in Pune city. We will use Linear Regression to predict the prices for properties. The goal is to help predict house prices based on different property features.
 
 ---
